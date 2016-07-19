@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskMaster", "TaskMaster\TaskMaster.csproj", "{ED97C24B-7205-49E4-97C3-2F2996421B16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED97C24B-7205-49E4-97C3-2F2996421B16}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{ED97C24B-7205-49E4-97C3-2F2996421B16}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{ED97C24B-7205-49E4-97C3-2F2996421B16}.Release|iPhone.ActiveCfg = Release|iPhone
+		{ED97C24B-7205-49E4-97C3-2F2996421B16}.Release|iPhone.Build.0 = Release|iPhone
+		{ED97C24B-7205-49E4-97C3-2F2996421B16}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{ED97C24B-7205-49E4-97C3-2F2996421B16}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{ED97C24B-7205-49E4-97C3-2F2996421B16}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{ED97C24B-7205-49E4-97C3-2F2996421B16}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

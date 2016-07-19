@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="TaskMaster/TaskMaster.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskMaster/Info.plist">
+    <Files>
+      <File FileName="TaskMaster/RootTableSource.cs" Line="16" Column="4" />
+      <File FileName="TaskMaster/MasterViewController.cs" Line="50" Column="34" />
+      <File FileName="TaskMaster/TaskDetailViewController.cs" Line="35" Column="1" />
+      <File FileName="TaskMaster/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaskMaster" expanded="True">
+            <Node name="TaskMaster" expanded="True">
+              <Node name="Info.plist" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.TaskMaster PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.07A3F982-A307-46ED-86E4-051E45738D5F" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
